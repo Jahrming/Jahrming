@@ -1,13 +1,13 @@
 
 ###Hi everyone, I'm José Andrés Herrera Rincón! 👋
 
--👀 I'm interested in web development, mobile app development, and data science.
--🌱 Currently, I'm learning new technologies to enhance my skills.
--💼 I work part-time at Fryos Studio.
--💞️ I'm looking to collaborate on open-source projects and innovative ideas.
--📫 You can reach me at jose2002rincon@gmail.com.
--😄 Pronouns: He/Him
--⚡ Fun fact: I love video games!
+👀 I'm interested in web development, mobile app development, and data science.
+🌱 Currently, I'm learning new technologies to enhance my skills.
+💼 I work part-time at Fryos Studio.
+💞️ I'm looking to collaborate on open-source projects and innovative ideas.
+📫 You can reach me at jose2002rincon@gmail.com.
+😄 Pronouns: He/Him
+⚡ Fun fact: I love video games!
 
 ##########################################################################################
 
