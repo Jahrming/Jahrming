@@ -1,5 +1,5 @@
 
-###Hi everyone, I'm José Andrés Herrera Rincón! 👋
+### Hi everyone, I'm José Andrés Herrera Rincón! 👋
 
 - 👀 I'm interested in web development, mobile app development, and data science.
 - 🌱 Currently, I'm learning new technologies to enhance my skills.
@@ -12,7 +12,7 @@
 ---
 
 
-###¡Hola a todos, soy José Andrés Herrera Rincón! 👋
+### ¡Hola a todos, soy José Andrés Herrera Rincón! 👋
 
 - 👀 Estoy interesado en el desarrollo web, el desarrollo de aplicaciones móviles y la ciencia de datos.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías para mejorar mis habilidades.
