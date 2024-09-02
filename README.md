@@ -35,3 +35,5 @@
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - C# ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 - Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- Godot ![Godot](https://img.shields.io/badge/-Godot-478CFF?logo=godot-engine&logoColor=white)
+
